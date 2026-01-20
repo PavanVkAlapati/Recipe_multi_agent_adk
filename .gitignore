@@ -48,12 +48,6 @@ Thumbs.db
 .ipynb_checkpoints/
 
 # =========================
-# PDFs / Generated Docs
-# (remove this if you want to commit PDFs)
-# =========================
-*.pdf
-
-# =========================
 # Test / Coverage
 # =========================
 .coverage
