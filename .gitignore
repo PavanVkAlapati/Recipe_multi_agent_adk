@@ -1,0 +1,67 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# =========================
+# Virtual Environments
+# =========================
+.env
+.venv
+venv/
+env/
+ENV/
+
+# =========================
+# Environment Variables
+# =========================
+.env.*
+*.env
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+*.out
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# =========================
+# Jupyter / Notebooks
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# PDFs / Generated Docs
+# (remove this if you want to commit PDFs)
+# =========================
+*.pdf
+
+# =========================
+# Test / Coverage
+# =========================
+.coverage
+htmlcov/
+.pytest_cache/
+
+# =========================
+# Misc
+# =========================
+tmp/
+cache/
